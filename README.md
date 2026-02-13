@@ -1,5 +1,11 @@
 # UPS Logistics Optimization using SQL
 
+<p align="center">
+  <img src="Insights/delivery_agent_performance_analysis.png" width="800"/>
+  <img src="Insights/shipment_tracking.png" width="800"/>
+  <img src="Insights/warehouse_ranking.png" width="800"/>
+</p>
+
 ## 📌 Project Overview
 
 This project analyzes delivery delays, route inefficiencies, warehouse bottlenecks, and delivery agent performance using structured relational logistics data.
